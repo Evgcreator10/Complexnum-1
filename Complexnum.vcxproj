@@ -125,6 +125,9 @@
   <ItemGroup>
     <ClCompile Include="Complexnum.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Cmpx.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

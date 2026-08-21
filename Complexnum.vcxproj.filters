@@ -13,10 +13,21 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Complex">
+      <UniqueIdentifier>{24a109ab-00ad-498d-8937-79d9c6bda67f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Emulator">
+      <UniqueIdentifier>{15c21322-1fb0-4833-a9a0-bca692050162}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Complexnum.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Cmpx.h">
+      <Filter>Complex</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
