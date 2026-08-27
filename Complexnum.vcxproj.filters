@@ -29,5 +29,8 @@
     <ClInclude Include="Cmpx.h">
       <Filter>Complex</Filter>
     </ClInclude>
+    <ClInclude Include="SignEmulator.h">
+      <Filter>Emulator</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
