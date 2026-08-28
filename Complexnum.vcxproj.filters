@@ -17,7 +17,10 @@
       <UniqueIdentifier>{24a109ab-00ad-498d-8937-79d9c6bda67f}</UniqueIdentifier>
     </Filter>
     <Filter Include="Emulator">
-      <UniqueIdentifier>{15c21322-1fb0-4833-a9a0-bca692050162}</UniqueIdentifier>
+      <UniqueIdentifier>{fa540382-ea6b-4376-82a9-3b7dbcd0437a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Filtration">
+      <UniqueIdentifier>{3225f2bc-0260-46df-983d-3aa10953d3e0}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -31,6 +34,9 @@
     </ClInclude>
     <ClInclude Include="SignEmulator.h">
       <Filter>Emulator</Filter>
+    </ClInclude>
+    <ClInclude Include="Filtration.h">
+      <Filter>Filtration</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
